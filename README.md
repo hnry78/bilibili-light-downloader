@@ -1,6 +1,6 @@
-# 🎬 Bilibili Downloader
+# 🎬 Bilibili Light Downloader
 
-一键下载 Bilibili 视频，自动选择最高画质，支持登录 Cookie。
+一款轻量化的 Bilibili 视频下载器，让你不用再被移动端b站的缓存或pc端b站应用折磨。自动选择最高画质，支持登录 Cookie。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
@@ -9,7 +9,7 @@
 
 ## ✨ 功能
 
-- 🚀 输入链接一键下载
+- 🚀 输入链接下载
 - 🔍 自动检测并选择最高可用画质（480P / 720P / 1080P+）
 - 🍪 Cookie 登录支持（下载高清/大会员视频）
 - 📋 查看视频所有可用画质格式
